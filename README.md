@@ -10,9 +10,11 @@ First task consisted of implementing **genetic algorithms** trying to find most-
 solution to Travelling Thief Problem.  
 This problem is the merge of **two NP-Hard problems: Travelling Salesman Problem and Knapsack Problem**.  
 
-Score by generation with given input:
 <p align="center">
   <img src="SI_1/Figure_3_8.png">
+</p>
+<p align="center">
+  <i>Fig. 1.1 - Score by generation with given input</i>
 </p>
   
 
@@ -25,18 +27,21 @@ In order to determine which field should be taken care of next, these heuristics
 - smallest domain - take the field with the least possibilities
 - first - take the first what's in the memory, don't compute next choice
 - domain1 - personal proposal being hybrid with 'smallest domain' and 'first'
-
-Solved skyscrapper_6_4:  
+  
 <p align="center">
   <img src="Screenshots/skyscrapper_6_4.png" height="500">
 </p>
-  
-  
-Solved futoshiki_9_0:  
+<p align="center">
+  <i>Fig. 2.1 - Solved skyscrapper_6_4</i>
+</p>  
+
 <p align="center">
   <img src="Screenshots/futoshiki_9_0.png" height="500">
 </p>
-  
+<p align="center">
+  <i>Fig. 2.2 - Solved futoshiki_9_0</i>
+</p>  
+
 ## Task 3 - Nine Men's Morris
 Third task was about solving zero-sum game with **Mini-Max** algorithm or **Alpha-Beta pruning**.
 After heuristics had been proposed for solving Nine Men's Morris, two AIs were fighting each 
@@ -49,17 +54,20 @@ These heuristics were proposed:
 The game tree is not standard. It's maximizing and minimizing nodes are dependent on the move. 
 After making a move causing mill, another maximizing node is used. This can be seen below.
 
-Rules for building a game tree (Polish):
+
 <p align="center">
   <img src="Screenshots/game_tree.png" height="500">
+</p> 
+<p align="center">
+  <i>Fig. 3.1 - Rules for building a game tree (Polish)</i>
 </p>  
-
-Board at the end of the game between two AIs using Alpha-Beta pruning, freedom of movement heuristic 
-and tree depth of 3:  
 
 <p align="center">
   <img src="Screenshots/result_ab_freedom.png" height="400">
 </p>  
+<p align="center">
+  <i>Fig. 3.2 - Board at the end of the game between two AIs using Alpha-Beta pruning, freedom of movement heuristic and tree depth of 3</i>
+</p>
 
 ## Task 4 - Similarity in images
 Final task required to find similarity in images by using external software finding key points in images 
@@ -74,18 +82,25 @@ Key points:
 <p align="center">
   <img src="Screenshots/pick_kp_2.png" height="270">
 </p>  
-  
-  
-Affine transformation after 1000 iterations:  
+
+<p align="center">
+  <i>Fig. 4.1 - Key points</i>
+</p>  
 
 <p align="center">
   <img src="Screenshots/pick_affine.png" height="270">
 </p>  
-Perspective transformation after 1000 iterations:  
+<p align="center">
+  <i>Fig. 4.2 - Affine transformation after 1000 iterations</i>
+</p>    
 
 <p align="center">
   <img src="Screenshots/pick_persp.png" height="270">
 </p>  
+<p align="center">
+  <i>Fig. 4.3 - Perspective transformation after 1000 iterations</i>
+</p>  
+
   
 
 
