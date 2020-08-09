@@ -72,9 +72,7 @@ After making a move causing mill, another maximizing node is used. This can be s
 ## Task 4 - Similarity in images
 Final task required to find similarity in images by using external software finding key points in images 
 and **k-nearest neighbours algorithm**. After that, images were transformed by using **affine transformation and 
-perspective transformation**.
-
-Key points:  
+perspective transformation**.  
 
 <p align="center">
   <img src="Screenshots/pick_kp_1.png" height="270">
