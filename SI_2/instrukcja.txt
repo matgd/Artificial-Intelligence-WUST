@@ -1,0 +1,8 @@
+Implementacja
+    -> Zmienne
+    -> Ograniczenia
+    
+Algorytmy
+    -> Backtracking (wyszukiwanie w głąb drzewa)
+    -> Forward checking
+    

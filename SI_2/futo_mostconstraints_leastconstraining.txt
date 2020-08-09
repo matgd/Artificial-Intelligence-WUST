@@ -1,0 +1,139 @@
+most_constraints
+least_constraining_col_row
+    
+
+backtracking
+
+/home/mateusz/anaconda3/bin/python3.7 /home/mateusz/PWr/SI/SI_2/main.py
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_4_0.txt
+Time:    0.002526521682739258 s.
+Steps:   21
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_4_1.txt
+Time:    0.00344085693359375 s.
+Steps:   34
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_4_2.txt
+Time:    0.004778385162353516 s.
+Steps:   38
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_5_0.txt
+Time:    0.005206584930419922 s.
+Steps:   36
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_5_1.txt
+Time:    0.0032820701599121094 s.
+Steps:   25
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_5_2.txt
+Time:    0.012780189514160156 s.
+Steps:   69
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_6_0.txt
+Time:    0.017500638961791992 s.
+Steps:   114
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_6_1.txt
+Time:    0.018123865127563477 s.
+Steps:   82
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_6_2.txt
+Time:    9.454159021377563 s.
+Steps:   41191
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_7_0.txt
+Time:    97.20972919464111 s.
+Steps:   251233
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_7_1.txt
+Time:    2.9058890342712402 s.
+Steps:   9148
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_7_2.txt
+Time:    140.06861281394958 s.
+Steps:   378096
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_8_0.txt
+Time:    1.0259251594543457 s.
+Steps:   1998
+Correct: False
+==================================
+
+
+forward-checking
+
+/home/mateusz/anaconda3/bin/python3.7 /home/mateusz/PWr/SI/SI_2/main.py
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_4_0.txt
+Time:    0.0031566619873046875 s.
+Steps:   21
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_4_1.txt
+Time:    0.004994869232177734 s.
+Steps:   34
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_4_2.txt
+Time:    0.006512165069580078 s.
+Steps:   38
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_5_0.txt
+Time:    0.007932662963867188 s.
+Steps:   36
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_5_1.txt
+Time:    0.005139827728271484 s.
+Steps:   25
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_5_2.txt
+Time:    0.01845693588256836 s.
+Steps:   69
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_6_0.txt
+Time:    0.03007650375366211 s.
+Steps:   114
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_6_1.txt
+Time:    0.0273439884185791 s.
+Steps:   82
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_6_2.txt
+Time:    14.409055471420288 s.
+Steps:   41191
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_7_0.txt
+Time:    138.57921624183655 s.
+Steps:   251233
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_7_1.txt
+Time:    4.610002279281616 s.
+Steps:   9148
+Correct: True
+==================================
+File:    /home/mateusz/PWr/SI/SI_2/research_data/test_futo_7_2.txt
+Time:    209.0739974975586 s.
+Steps:   378096
+Correct: True
+==================================
+
+

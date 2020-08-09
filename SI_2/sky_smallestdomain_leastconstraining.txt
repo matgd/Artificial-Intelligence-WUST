@@ -1,0 +1,160 @@
+smallest_domain
+least_constraining
+
+backtracking
+
+File:    research_data/test_sky_4_0.txt
+Time:    0.0060002803802490234 s.
+Steps:   27
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_1.txt
+Time:    0.01700115203857422 s.
+Steps:   77
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_2.txt
+Time:    0.016000747680664062 s.
+Steps:   74
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_3.txt
+Time:    0.015001058578491211 s.
+Steps:   82
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_4.txt
+Time:    0.003999948501586914 s.
+Steps:   15
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_0.txt
+Time:    0.13800811767578125 s.
+Steps:   567
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_1.txt
+Time:    0.371021032333374 s.
+Steps:   1390
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_2.txt
+Time:    0.60103440284729 s.
+Steps:   2265
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_3.txt
+Time:    0.09300541877746582 s.
+Steps:   331
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_4.txt
+Time:    0.06500387191772461 s.
+Steps:   221
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_0.txt
+Time:    0.954054594039917 s.
+Steps:   2487
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_1.txt
+Time:    5.101291656494141 s.
+Steps:   13806
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_2.txt
+Time:    2.5691473484039307 s.
+Steps:   7926
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_3.txt
+Time:    37.75415921211243 s.
+Steps:   117878
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_4.txt
+Time:    2.608149290084839 s.
+Steps:   6975
+Correct: True
+=SKY===============================
+
+
+forward-checking
+C:\Users\Mateusz\AppData\Local\Programs\Python\Python37-32\python.exe C:/Users/Mateusz/Desktop/SI/Sztuczna-Inteligencja/SI_2/main.py
+File:    research_data/test_sky_4_0.txt
+Time:    0.009000778198242188 s.
+Steps:   27
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_1.txt
+Time:    0.026001453399658203 s.
+Steps:   77
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_2.txt
+Time:    0.02300119400024414 s.
+Steps:   74
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_3.txt
+Time:    0.02500128746032715 s.
+Steps:   82
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_4_4.txt
+Time:    0.0060002803802490234 s.
+Steps:   15
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_0.txt
+Time:    0.21901273727416992 s.
+Steps:   567
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_1.txt
+Time:    0.5230300426483154 s.
+Steps:   1390
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_2.txt
+Time:    0.8160464763641357 s.
+Steps:   2265
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_3.txt
+Time:    0.1240072250366211 s.
+Steps:   331
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_5_4.txt
+Time:    0.09600543975830078 s.
+Steps:   221
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_0.txt
+Time:    1.435082197189331 s.
+Steps:   2487
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_1.txt
+Time:    8.209469318389893 s.
+Steps:   13806
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_2.txt
+Time:    3.7782163619995117 s.
+Steps:   7926
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_3.txt
+Time:    54.73913073539734 s.
+Steps:   117878
+Correct: True
+=SKY===============================
+File:    research_data/test_sky_6_4.txt
+Time:    3.8922226428985596 s.
+Steps:   6975
+Correct: True
+=SKY===============================
+
